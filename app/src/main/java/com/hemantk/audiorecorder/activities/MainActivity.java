@@ -23,7 +23,7 @@ public class MainActivity extends ActionBarActivity{
 
     private PagerSlidingTabStrip tabs;
     private ViewPager pager;
-
+//test on github to commit
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
