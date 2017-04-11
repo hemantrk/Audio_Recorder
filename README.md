@@ -1,4 +1,4 @@
-Easy Audio Recorder
+Audio Recorder Sample
 =============
 
 <p>A simple Audio Recording app implementing Material Design.</p>
